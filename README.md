@@ -3,6 +3,8 @@
 
 After installing Telegram bot. If someone makes a payment, a notification message will be sent to your telegram account and you will send the file you want to give in return for payment to the user's e-mail address.
 
+By opening the html code with notepad, you can change the texts in the code according to your wish.
+
 This guide explains how to integrate Telegram Bot API and obtain the chat ID. Follow the steps below to set up the integration:
 
 1. Creating a Telegram Bot:
